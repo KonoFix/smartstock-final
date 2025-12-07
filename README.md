@@ -36,7 +36,7 @@ This project is aligned with the **UN Sustainable Development Goals (SDGs)**:
 #### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/smartstock-final.git](https://github.com/YOUR_USERNAME/smartstock-final.git)
+    git clone [https://github.com/KonoFix/smartstock-final.git](https://github.com/KonoFix/smartstock-final.git)
     cd smartstock-final
     ```
 
